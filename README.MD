@@ -118,7 +118,7 @@ CareerPath-Navigator/
 
 ## 🎓 Academic Project
 
-This project is developed as part of my **Final Year B.Tech Project** in Computer Science Engineering, demonstrating:
+This project is developed as part of my **Third Year B.Tech Project** in Computer Science Engineering, demonstrating:
 
 - **Full Stack Development Skills**
 - **Modern Web Technologies**
