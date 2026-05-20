@@ -1,7 +1,7 @@
 // CareerPath Navigator - Main Logic
 // Connects Frontend to Node.js/MongoDB Backend
 
-const API_URL = 'https://future-fit-backend-fcmi.onrender.com/api'; // Make sure your backend runs on port 5000
+const API_URL = 'http://localhost:5000/api'; // Make sure your backend runs on port 5000
 
 // DOM Elements
 const loginModal = document.getElementById('loginModal');

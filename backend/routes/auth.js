@@ -160,7 +160,9 @@ router.get('/verify', async (req, res) => {
         await user.save();
 
         // Redirect to Vercel
-        res.redirect('https://future-fit.vercel.app/index.html?verified=true');
+        // res.redirect('https://future-fit.vercel.app/index.html?verified=true');
+        res.redirect('http://localhost:3000/index.html?verified=true');
+
     } catch (err) {
         console.error(err.message);
         res.status(500).send('Server Error');

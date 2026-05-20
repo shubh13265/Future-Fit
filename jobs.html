@@ -279,7 +279,7 @@
 
         try {
             // Save the job title to the user's dashboard via API
-            const response = await fetch('https://future-fit-backend-fcmi.onrender.com/api/data/apply-job', {
+            const response = await fetch('http://localhost:5000/api/data/apply-job', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',

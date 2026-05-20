@@ -16,9 +16,12 @@ const sendVerificationEmail = async (email, token) => {
     // When testing locally, use localhost. When deployed, use Vercel.
     const currentUrl = process.env.NODE_ENV === 'production' 
         ? 'https://future-fit.vercel.app' 
-        : 'https://future-fit-backend-fcmi.onrender.com';
+        : 'http://localhost:5000';
 
-const verificationUrl = `https://future-fit.vercel.app/index.html?verified=true&token=${token}`;
+// const verificationUrl = `https://future-fit.vercel.app/index.html?verified=true&token=${token}`;
+const verificationUrl = `http://localhost:5000/api/auth/verify?token=${token}`;
+
+
     const mailOptions = {
         from: `"Future-Fit Team" <${process.env.EMAIL_USER}>`,
         to: email,
@@ -45,11 +48,13 @@ const verificationUrl = `https://future-fit.vercel.app/index.html?verified=true&
 
 // 2. Password Reset Email
 const sendPasswordResetEmail = async (email, token) => {
-    const currentUrl = process.env.NODE_ENV === 'production' 
-        ? 'https://future-fit.vercel.app' 
-        : 'https://future-fit-backend-fcmi.onrender.com';
+    // const currentUrl = process.env.NODE_ENV === 'production' 
+    //     ? 'https://future-fit.vercel.app' 
+    //     : 'http://localhost:5000';
+const resetUrl = `http://localhost:3000/reset-password.html?token=${token}`;
 
-    const resetUrl = `${currentUrl}/reset-password.html?token=${token}`;
+    // const resetUrl = `${currentUrl}/reset-password.html?token=${token}`;
+
 
     const mailOptions = {
         from: `"Future-Fit Team" <${process.env.EMAIL_USER}>`,

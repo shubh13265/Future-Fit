@@ -2,7 +2,7 @@
 
 **Full Stack Career Counseling Platform**
 
-Developed by **Sanjay Yadav** | Student & Aspiring Full Stack Developer | Indore, M.P.
+Developed by **Shubham Kumar** | Student & Aspiring Full Stack Developer | Indore, M.P.
 
 ---
 
@@ -78,7 +78,7 @@ CareerPath-Navigator/
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/sanjayydv77/CareerPath-Navigator.git
+git clone https://github.com/shubh13265/Future-Fit.git
 ```
 
 2. **Navigate to project directory:**
@@ -108,14 +108,14 @@ code .
 
 ## 👨‍💻 About Developer
 
-**Sanjay Yadav**
-- **Role:** Student & Aspiring Full Stack Developer
-- **Education:** 3rd Year CSE B.Tech Student
+**Shubham Kumar**
+- **Role:**  Full Stack Developer
+- **Education:** 3rd Year B.Tech CSE Student
 - **Location:** Indore, Madhya Pradesh, India
-- **Email:** sanjuydv5357@gmail.com
-- **LinkedIn:** [sanjuydv7](https://www.linkedin.com/in/sanjuydv7/)
-- **GitHub:** [sanjayydv77](https://github.com/sanjayydv77)
-- **Instagram:** [sanjuydv_7](https://www.instagram.com/sanjuydv_7/)
+- **Email:** kumarbrbshubham@gmail.com
+- **LinkedIn:** [shubham kumar](www.linkedin.com/in/shubham-kumar-00bb892a4/)
+- **GitHub:** [shubh13265](https://github.com/shubh13265)
+- **Instagram:** [shubham_26.](https://www.instagram.com/shubham_26._)
 
 ## 🎓 Academic Project
 
@@ -141,7 +141,7 @@ This project is developed as part of my **Final Year B.Tech Project** in Compute
 
 For any queries or suggestions regarding this project:
 
-- **Email:** sanjuydv5357@gmail.com
+- **Email:** kumarbrbshubham@gmail.com
 - **LinkedIn:** Connect with me for professional discussions
 - **GitHub:** Star this repository if you find it helpful!
 
@@ -149,4 +149,4 @@ For any queries or suggestions regarding this project:
 
 ⭐ **If you found this project helpful, please give it a star!** ⭐
 
-**© 2024 CareerPath Navigator. Developed with ❤️ by Sanjay Yadav | Full Stack Developer | Indore, M.P.**
+**© 2024 CareerPath Navigator. Developed with ❤️ by Shubham Kumar | Full Stack Developer | Indore, M.P.**
