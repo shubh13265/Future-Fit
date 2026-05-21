@@ -60,9 +60,9 @@ CareerPath Navigator is a comprehensive career counseling platform designed to g
 CareerPath-Navigator/
 ├── index.html # Main HTML file
 ├── css/       # Complete CSS styling
-├── js/        # main.js # JavaScript functionality
+├── js/        # JavaScript functionality
 ├── images/    # Developer profile picture
-├── README.md  # Project documentation
+├── README.md  # Project documentations
 └── .gitignore # Git ignore file
 ```
 
